@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">profil_yongki</string>
+    <string name="text_pt">Malang National Institute of Technology</string>
+    <string name="jurusan">Informatics Engineering</string>
+    <string name="angkatan">Generation 2017</string>
+    <string name="folower">Followers</string>
+    <string name="folowing">Following</string>
+    <string name="activity">Activity</string>
+</resources>

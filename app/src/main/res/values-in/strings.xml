@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">profil_yongki</string>
+    <string name="activity">Aktivitas</string>
+    <string name="angkatan">Angkatan 2017</string>
+    <string name="folower">Pengikut</string>
+    <string name="folowing">Mengikuti</string>
+    <string name="jurusan">Teknik Informatika</string>
+    <string name="text_pt">Institut Teknologi Nasional Malang</string>
+</resources>
